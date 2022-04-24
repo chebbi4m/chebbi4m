@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chebbi4m&label=Profile%20views&color=0e75b6&style=flat" alt="chebbi4m" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chebbi4m" alt="chebbi4m" /></a> </p>
+
 - 👨‍💻 All of my projects are available at [https://github.com/chebbi4m/my-projects](https://github.com/chebbi4m/my-projects)
 
 - 📫 How to reach me **chebbim4@gmail.com**
@@ -10,8 +12,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Vqy-PpqKEH_Vkjaa3KLAXdakAa7LMrsF/view?usp=sharing](https://drive.google.com/file/d/1Vqy-PpqKEH_Vkjaa3KLAXdakAa7LMrsF/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Gamer**
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chebbi4m&show_icons=true&locale=en&layout=compact" alt="chebbi4m" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chebbi4m&show_icons=true&locale=en" alt="chebbi4m" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chebbi4m&" alt="chebbi4m" /></p>

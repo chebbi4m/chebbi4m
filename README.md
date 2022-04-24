@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chebbi4m&label=Profile%20views&color=0e75b6&style=flat" alt="chebbi4m" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chebbi4m" alt="chebbi4m" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/chebbi4m/my-projects](https://github.com/chebbi4m/my-projects)
 
@@ -34,3 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chebbi4m&show_icons=true&locale=en" alt="chebbi4m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chebbi4m&" alt="chebbi4m" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chebbi4m" alt="chebbi4m" /></a></p>
